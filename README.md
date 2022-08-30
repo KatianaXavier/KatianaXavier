@@ -7,13 +7,13 @@
 - ✨ Pronouns: She/Her
 - 👀 Fun fact: I'm a bookwarm
 
-<div style="display: inline-block">
+<div style="display: inline_block" align="center">
   <a href="https://github.com/KatianaXavier">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KatianaXavier&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatianaXavier&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<div style="display: inline-block" align="center"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Kati-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kati-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Kati-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
