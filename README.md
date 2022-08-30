@@ -2,10 +2,6 @@
 
 ### A curious person who found a new passion in IT and is now in career transition. 💻
 
-- 🌱 I’m currently learning JavaScript, TypeScript, HTML and CSS.
-- 💞️ I’m looking to collaborate on ...
-- ✨ Pronouns: She/Her
-- 👀 Fun fact: I'm a bookwarm
 
 <div align="center">
   <a href="https://github.com/KatianaXavier">
