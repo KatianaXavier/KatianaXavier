@@ -1,6 +1,6 @@
 # 👋🏼 Hi, I’m Katiana!
 
-## In career transition.
+### A curious person who found a new passion in IT and is now in career transition. 💻
 
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate on ...
