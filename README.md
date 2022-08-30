@@ -2,11 +2,15 @@
 
 ### A curious person who found a new passion in IT and is now in career transition. 💻
 
+- 🌱 I’m currently learning JavaScript, TypeScript, HTML and CSS.
+- 💞️ I’m looking to collaborate on ...
+- ✨ Pronouns: She/Her
+- 👀 Fun fact: I'm a bookwarm
 
-<div align="center">
+<div style="display: inline-block" align="center">
   <a href="https://github.com/KatianaXavier">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=KatianaXavier&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatianaXavier&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatianaXavier&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <div style="display: inline-block" align="center"><br>
