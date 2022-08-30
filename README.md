@@ -1,8 +1,9 @@
 # 👋🏼 Hi, I’m Katiana!
-- 👀 I’m interested in ...
+- 👀 Fun fact: I'm a bookwarm
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at katianaxavierb@gmail.com or https://linkedin.com/in/katianaxavier
+- ✨ She/Her
 
 <!---
 KatianaXavier/KatianaXavier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
