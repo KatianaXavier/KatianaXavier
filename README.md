@@ -2,7 +2,7 @@
 
 ### A curious person who found a new passion in IT and is now in career transition. 💻
 
-- 🌱 I’m currently learning JavaScript, TypeScript, HTML, CSS and Java.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript, Angular and Java.
 - ✨ Pronouns: She/Her.
 - 👀 Fun fact: I'm a bookwarm.
 
