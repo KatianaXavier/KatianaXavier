@@ -1,4 +1,6 @@
-## 👋🏼 Hi, I’m Katiana!
+<h1 align="center">
+  👋🏼 Hi, I’m Katiana!
+</h1>
 
 ### A curious person who found a new passion in IT and is now in career transition. 💻
 
